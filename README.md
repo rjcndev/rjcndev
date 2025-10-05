@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-💻 Passionate **Software Engineer** with over a decade of experience building scalable backend systems and web applications.  
-My primary focus is **PHP development**, but I also enjoy exploring modern web technologies, clean architecture, and performance optimization.  
+💻 I'm a Passionate **Software Engineer** with over a decade of experience building scalable backend systems and web applications.  
+My primary focus is **PHP development**, but I also enjoy exploring modern web technologies, clean architecture, and performance optimizations.  
 
 ---
 
