@@ -7,7 +7,7 @@
 ## 🛠 Tech Stack
 - **Primary Languages:**
 
-[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)](https://www.php.net)
+[![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)](https://www.php.net){:target="_blank"} 
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 
