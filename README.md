@@ -7,6 +7,12 @@
 ## 🛠 Tech Stack
 - **Primary Languages:**
 
+[link](https://www.php.net){:target="_blank"}
+
+[Google](https://google.com" target="_blank)
+
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)](https://www.php.net){:target="_blank"} 
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
