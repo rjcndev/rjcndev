@@ -22,6 +22,10 @@
 
 - **Misc:**
 
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+![PhpStorm Badge](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff&style=for-the-badge)
 ![Bitcoin Badge](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge)
 ![AdGuard Badge](https://img.shields.io/badge/AdGuard-68BC71?logo=adguard&logoColor=fff&style=for-the-badge)
 ![Umbrel Badge](https://img.shields.io/badge/Umbrel-5351FB?logo=umbrel&logoColor=fff&style=for-the-badge)
