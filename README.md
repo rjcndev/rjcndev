@@ -34,7 +34,6 @@
 ![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge)
 ![GrapheneOS Badge](https://img.shields.io/badge/GrapheneOS-0053A3?logo=grapheneos&logoColor=fff&style=for-the-badge)
 ![Flathub Badge](https://img.shields.io/badge/Flathub-000?logo=flathub&logoColor=fff&style=for-the-badge)
-![Gitea Badge](https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=fff&style=for-the-badge)
   
 ---
 
